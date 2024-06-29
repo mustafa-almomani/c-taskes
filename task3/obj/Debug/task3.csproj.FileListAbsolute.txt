@@ -5,3 +5,10 @@ C:\Users\almom\source\repos\task3\task3\obj\Debug\task3.csproj.AssemblyReference
 C:\Users\almom\source\repos\task3\task3\obj\Debug\task3.csproj.CoreCompileInputs.cache
 C:\Users\almom\source\repos\task3\task3\obj\Debug\task3.exe
 C:\Users\almom\source\repos\task3\task3\obj\Debug\task3.pdb
+C:\Users\almom\OneDrive\سطح المكتب\c# task\c-taskes\task3\bin\Debug\task3.exe.config
+C:\Users\almom\OneDrive\سطح المكتب\c# task\c-taskes\task3\bin\Debug\task3.exe
+C:\Users\almom\OneDrive\سطح المكتب\c# task\c-taskes\task3\bin\Debug\task3.pdb
+C:\Users\almom\OneDrive\سطح المكتب\c# task\c-taskes\task3\obj\Debug\task3.csproj.AssemblyReference.cache
+C:\Users\almom\OneDrive\سطح المكتب\c# task\c-taskes\task3\obj\Debug\task3.csproj.CoreCompileInputs.cache
+C:\Users\almom\OneDrive\سطح المكتب\c# task\c-taskes\task3\obj\Debug\task3.exe
+C:\Users\almom\OneDrive\سطح المكتب\c# task\c-taskes\task3\obj\Debug\task3.pdb

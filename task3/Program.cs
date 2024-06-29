@@ -1,4 +1,4 @@
-﻿using System;
+﻿ using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Diagnostics.Eventing.Reader;
@@ -15,16 +15,12 @@ namespace task3
             int num1 = Convert.ToInt16(Console.ReadLine());
             int num2 = Convert.ToInt16(Console.ReadLine());
             Console.WriteLine("the minimum number is : " + Math.Min(num1, num2));
-            int num3 = Convert.ToInt16(Console.ReadLine());
-            if (num3 < 0)
-            {
-                Console.WriteLine("The sign  -");
-            }
+            string num3 = Console.ReadLine();
 
-            else
-            {
-                Console.WriteLine("The sign +");
-            }
+            Console.WriteLine(num3[0]);
+
+
+
 
             int[] arr = { 4, 0, -1 };
             Array.Sort(arr);
