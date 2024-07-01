@@ -12,3 +12,10 @@ C:\Users\almom\source\repos\task 4\task 3\obj\Debug\task 4.csproj.AssemblyRefere
 C:\Users\almom\source\repos\task 4\task 3\obj\Debug\task 4.csproj.CoreCompileInputs.cache
 C:\Users\almom\source\repos\task 4\task 3\obj\Debug\task 3.exe
 C:\Users\almom\source\repos\task 4\task 3\obj\Debug\task 3.pdb
+C:\Users\almom\OneDrive\سطح المكتب\c# task\c-taskes\task 5\task 3\bin\Debug\task 3.exe.config
+C:\Users\almom\OneDrive\سطح المكتب\c# task\c-taskes\task 5\task 3\bin\Debug\task 3.exe
+C:\Users\almom\OneDrive\سطح المكتب\c# task\c-taskes\task 5\task 3\bin\Debug\task 3.pdb
+C:\Users\almom\OneDrive\سطح المكتب\c# task\c-taskes\task 5\task 3\obj\Debug\task 4.csproj.AssemblyReference.cache
+C:\Users\almom\OneDrive\سطح المكتب\c# task\c-taskes\task 5\task 3\obj\Debug\task 4.csproj.CoreCompileInputs.cache
+C:\Users\almom\OneDrive\سطح المكتب\c# task\c-taskes\task 5\task 3\obj\Debug\task 3.exe
+C:\Users\almom\OneDrive\سطح المكتب\c# task\c-taskes\task 5\task 3\obj\Debug\task 3.pdb

@@ -132,15 +132,19 @@ namespace task_4
             //your_name();
 
             //multiply(10, 10);
+            Console.WriteLine("input 10 number for calculate sum and avg  ");
             int[] array = new int[10];
             sum(array);
             cube();
 
-            Numyears obj2 = new Numyears();
-            obj2.getYears(obj2.years);
+            //Numyears obj2 = new Numyears();
+            //obj2.getYears(obj2.years);
+            int[] years = { 1763, 1972, 1925, 1916, 1984, 1124, 1950, 2020 };
+            getYears(years);
+
             oldYear(27);
 
-            peson obj3=new peson();
+            peson obj3 = new peson();
             obj3.getperson();
            
 
@@ -187,6 +191,18 @@ namespace task_4
         {
             int Old = old * 365;
             Console.WriteLine($"old in day {Old}");
+        }
+
+        static void getYears(int[] years)
+        {
+
+            for (int i = 0; i < years.Length; i++)
+            {
+                if (years[i] >= 1950)
+                {
+                    Console.WriteLine(years[i]);
+                }
+            }
         }
 
 
