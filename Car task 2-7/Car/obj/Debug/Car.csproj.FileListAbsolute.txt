@@ -1,0 +1,7 @@
+C:\Users\almom\source\repos\Car\Car\bin\Debug\Car.exe.config
+C:\Users\almom\source\repos\Car\Car\bin\Debug\Car.exe
+C:\Users\almom\source\repos\Car\Car\bin\Debug\Car.pdb
+C:\Users\almom\source\repos\Car\Car\obj\Debug\Car.csproj.AssemblyReference.cache
+C:\Users\almom\source\repos\Car\Car\obj\Debug\Car.csproj.CoreCompileInputs.cache
+C:\Users\almom\source\repos\Car\Car\obj\Debug\Car.exe
+C:\Users\almom\source\repos\Car\Car\obj\Debug\Car.pdb

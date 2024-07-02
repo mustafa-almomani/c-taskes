@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace task_6
 {
-    public class Bmw :cars
+    class Bmw :cars
     {
         public Bmw (string Make, int Year, string Type, double Price, string Model, string PalletNo, string Color)
         : base(Make, Year, Type, Price, Model, PalletNo, Color)

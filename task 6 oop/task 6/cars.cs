@@ -35,7 +35,6 @@ namespace task_6
             this.Model = Model;
             this.PalletNo = PalletNo;
             this.Color = Color;
-            Console.WriteLine($"Make: {Make}, Year: {Year}, Type: {Type}, Price: {Price:C}, Model: {Model}, Pallet No: {PalletNo}, Color: {Color}");
         }
         public void Start()
         {
@@ -45,10 +44,10 @@ namespace task_6
         {
             Console.WriteLine($"Stoping the Car !");
         }
-        public string print()
+        public void print()
         {
 
-            return $"Make: {Make}, Year: {Year}, Type: {Type}, Price: {Price:C}, Model: {Model}, Pallet No: {PalletNo}, Color: {Color}";
+            Console.WriteLine($"Make: {Make}, Year: {Year}, Type: {Type}, Price: {Price:C}, Model: {Model}, Pallet No: {PalletNo}, Color: {Color}"); ;
         }
     }
    
